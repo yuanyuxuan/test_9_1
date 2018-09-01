@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("hellogit");
+	printf("hellogit\n");
+	printf("hellobarch\n");
 }
